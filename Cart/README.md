@@ -1,4 +1,4 @@
-2 color sprites:  
+2 color sprite notes:
   
 2 color sprites must start in the lower 0x80 bytes of the sprite table.  
 bit 0 of the Y position adds 1 to the sprite frame for the overlayed frame.  
