@@ -1,3 +1,5 @@
+D:
 cd \mame
-mame64 scv -cart D:\RetroDev\Crab\SCV\Cart\Crab.bin -window
-cd \RetroDev\Crab\SCV\Cart
+mame64 scv -cart C:\Github\CrabSCV\Cart\Crab.bin -window
+C:
+cd \Github\CrabSCV\Cart
