@@ -6,4 +6,4 @@ There are DOS bat files to compile and test out the software in MAME. The paths 
 There is also a configuration to allow compiling and running the software from within VS Code.  
 The configuration depends on the bat files to handle compiling.  
 
-The code and tools are released under your choice of MIT, CC0, or Public domain. The assembler, graphics, and tool libraries have their own license.
+The code and tools are released under your choice of MIT, CC0, or Public domain. The assembler, graphics, and tool libraries have their own licenses.
