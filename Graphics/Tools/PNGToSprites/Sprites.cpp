@@ -2,7 +2,7 @@
 #include "Defines.h"
 #include "File.h"
 #include "Sprites.h"
-#define STB_IMAGE_IMPLEMENTATION
+
 #include "stb_image.h"
 
 Sprites::Sprites()
