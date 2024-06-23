@@ -106,6 +106,6 @@ setPlayerFrame:
 
 	ldax	d
 
-	setSpriteTile
+	call	setSpriteTile
 
 	ret
